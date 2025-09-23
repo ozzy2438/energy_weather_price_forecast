@@ -54,6 +54,40 @@ This project solves these critical challenges by quantifying weather-demand rela
 
 ---
 
+## 📊 Dashboard Visualizations
+
+### Main KPI Dashboard (Executive Overview)
+![KPI Dashboard Overview](dashboard_images/Image%2023-9-2025%20at%201.55%20PM%20(1).jpg)
+
+*Executive summary dashboard showing key performance indicators, portfolio risk metrics, and compound weather event impacts across Australian energy regions.*
+
+### Weather Impact Analysis Dashboard
+![Weather Impact Analysis](dashboard_images/Image%2023-9-2025%20at%201.55%20PM.jpg)
+
+*Detailed analysis of temperature-demand correlations, solar radiation effects, and regional weather pattern impacts on electricity pricing.*
+
+### Portfolio Risk Assessment Dashboard
+![Portfolio Risk Assessment](dashboard_images/Image%2023-9-2025%20at%201.56%20PM.jpg)
+
+*Risk exposure analysis for 500MW-1000MW portfolios, showing volatility impacts and compound event risk scenarios.*
+
+### Demand Response Optimization Dashboard
+![Demand Response Optimization](dashboard_images/Image%2023-9-2025%20at%201.56%20PM%202.jpg)
+
+*Load shifting scenarios and demand response strategies with cost savings calculations for off-peak optimization.*
+
+### Regional Performance Dashboard
+![Regional Performance Analysis](dashboard_images/Image%2023-9-2025%20at%201.57%20PM.jpg)
+
+*Comparative analysis across NSW1, VIC1, and QLD1 regions with regional vulnerability assessments and performance metrics.*
+
+### Financial Impact Calculator Dashboard
+![Financial Impact Calculator](dashboard_images/Image%2023-9-2025%20at%202.02%20PM.jpg)
+
+*Cost-benefit analysis tool showing potential savings from risk mitigation strategies and portfolio optimization scenarios.*
+
+---
+
 ## Table of Contents
 - [Weather-Driven Energy Demand Analysis \& Risk Optimization | Australian Energy Market](#weather-driven-energy-demand-analysis--risk-optimization--australian-energy-market)
   - [Executive Summary](#executive-summary)
@@ -62,6 +96,13 @@ This project solves these critical challenges by quantifying weather-demand rela
   - [Skills Used](#skills-used)
   - [Results \& Recommendations](#results--recommendations)
   - [Next Steps \& Limitations](#next-steps--limitations)
+  - [📊 Dashboard Visualizations](#-dashboard-visualizations)
+    - [Main KPI Dashboard (Executive Overview)](#main-kpi-dashboard-executive-overview)
+    - [Weather Impact Analysis Dashboard](#weather-impact-analysis-dashboard)
+    - [Portfolio Risk Assessment Dashboard](#portfolio-risk-assessment-dashboard)
+    - [Demand Response Optimization Dashboard](#demand-response-optimization-dashboard)
+    - [Regional Performance Dashboard](#regional-performance-dashboard)
+    - [Financial Impact Calculator Dashboard](#financial-impact-calculator-dashboard)
   - [Table of Contents](#table-of-contents)
     - [Project Overview](#project-overview)
     - [Data Sources](#data-sources)
