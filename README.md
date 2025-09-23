@@ -57,32 +57,32 @@ This project solves these critical challenges by quantifying weather-demand rela
 ## 📊 Dashboard Visualizations
 
 ### Main KPI Dashboard (Executive Overview)
-![KPI Dashboard Overview](dashboard_images/Image%2023-9-2025%20at%201.55%20PM%20(1).jpg)
+![KPI Dashboard Overview](https://github.com/ozzy2438/energy_weather_dashboard/blob/main/dashboard_images/Image%2023-9-2025%20at%201.55%E2%80%AFPM%20(1).jpg?raw=true)
 
 *Executive summary dashboard showing key performance indicators, portfolio risk metrics, and compound weather event impacts across Australian energy regions.*
 
 ### Weather Impact Analysis Dashboard
-![Weather Impact Analysis](dashboard_images/Image%2023-9-2025%20at%201.55%20PM.jpg)
+![Weather Impact Analysis](https://github.com/ozzy2438/energy_weather_dashboard/blob/main/dashboard_images/Image%2023-9-2025%20at%201.55%E2%80%AFPM.jpg?raw=true)
 
 *Detailed analysis of temperature-demand correlations, solar radiation effects, and regional weather pattern impacts on electricity pricing.*
 
 ### Portfolio Risk Assessment Dashboard
-![Portfolio Risk Assessment](dashboard_images/Image%2023-9-2025%20at%201.56%20PM.jpg)
+![Portfolio Risk Assessment](https://github.com/ozzy2438/energy_weather_dashboard/blob/main/dashboard_images/Image%2023-9-2025%20at%201.56%E2%80%AFPM.jpg?raw=true)
 
 *Risk exposure analysis for 500MW-1000MW portfolios, showing volatility impacts and compound event risk scenarios.*
 
 ### Demand Response Optimization Dashboard
-![Demand Response Optimization](dashboard_images/Image%2023-9-2025%20at%201.56%20PM%202.jpg)
+![Demand Response Optimization](https://github.com/ozzy2438/energy_weather_dashboard/blob/main/dashboard_images/Image%2023-9-2025%20at%201.56%E2%80%AFPM%202.jpg?raw=true)
 
 *Load shifting scenarios and demand response strategies with cost savings calculations for off-peak optimization.*
 
 ### Regional Performance Dashboard
-![Regional Performance Analysis](dashboard_images/Image%2023-9-2025%20at%201.57%20PM.jpg)
+![Regional Performance Analysis](https://github.com/ozzy2438/energy_weather_dashboard/blob/main/dashboard_images/Image%2023-9-2025%20at%201.57%E2%80%AFPM.jpg?raw=true)
 
 *Comparative analysis across NSW1, VIC1, and QLD1 regions with regional vulnerability assessments and performance metrics.*
 
 ### Financial Impact Calculator Dashboard
-![Financial Impact Calculator](dashboard_images/Image%2023-9-2025%20at%202.02%20PM.jpg)
+![Financial Impact Calculator](https://github.com/ozzy2438/energy_weather_dashboard/blob/main/dashboard_images/Image%2023-9-2025%20at%202.02%E2%80%AFPM.jpg?raw=true)
 
 *Cost-benefit analysis tool showing potential savings from risk mitigation strategies and portfolio optimization scenarios.*
 
