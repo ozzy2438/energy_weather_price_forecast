@@ -4,7 +4,7 @@
 **Accomplished improved customer retention by 15% as measured by using an Excel KPI dashboard by doing data-driven email marketing campaigns**
 
 ## 📺 Weather Energy Analysis Demo
-[![Weather Energy Analysis](https://img.shields.io/badge/🎥_Watch_Demo-Weather_Correlation_Analysis-orange?style=for-the-badge)](https://www.canva.com/design/DAGzxJJLMEc/YlcBw7gUbsZXJF7ZRqudXA/edit?utm_content=DAGzxJJLMEc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Weather Energy Analysis](https://img.shields.io/badge/🎥_Watch_Demo-Weather_Correlation_Analysis-orange?style=for-the-badge)](https://www.canva.com/design/DAGz8viPYlM/Vw4Jbiq0ytMKiNwHjXuQug/edit?utm_content=DAGz8viPYlM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 *Weather correlation analysis & risk modeling demonstration - Australian energy market insights*
 
