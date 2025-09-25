@@ -3,6 +3,9 @@
 ## Key Achievement
 **Accomplished improved customer retention by 15% as measured by using an Excel KPI dashboard by doing data-driven email marketing campaigns**
 
+## 📺 Project Demo Video
+**🎥 [Weather Energy Analysis Demo](https://www.canva.com/design/DAGzxJJLMEc/YlcBw7gUbsZXJF7ZRqudXA/edit?utm_content=DAGzxJJLMEc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)** *(Weather correlation analysis & risk modeling demonstration - Australian energy market insights)*
+
 ## Executive Summary
 Australian energy retailers face $50M+ annual losses from weather-driven price volatility, where extreme temperatures create compound risks during peak demand periods. This analysis developed predictive models identifying critical weather-market correlations across 9,000+ trading intervals, enabling $8-12M in annual portfolio optimization through strategic load shifting and risk hedging. Key insight: compound events (high temperature + low solar + peak hours) trigger 3.2x price spikes, occurring in 8% of intervals but causing 65% of volatility losses. Implementation of demand response strategies could reduce exposure by 35% while improving trading position capture rates by 15%.
 
