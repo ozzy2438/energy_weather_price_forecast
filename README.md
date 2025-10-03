@@ -4,9 +4,6 @@
 **Accomplished improved customer retention by 15% as measured by using an Excel KPI dashboard by doing data-driven email marketing campaigns**
 
 ## 📺 Weather Energy Analysis Demo
-## Weather Energy Analysis Demo
-
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue)](https://github.com/user-attachments/assets/5581f96f-db9e-4df7-ae40-c90d1bb6d863)
 
 <!-- Eğer buton yerine direkt görsel gözüksün dersen: -->
 [![Demo Screenshot](https://github.com/user-attachments/assets/5581f96f-db9e-4df7-ae40-c90d1bb6d863)](https://github.com/user-attachments/assets/5581f96f-db9e-4df7-ae40-c90d1bb6d863)
